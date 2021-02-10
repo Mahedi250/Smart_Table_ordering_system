@@ -1,0 +1,11 @@
+C:\Users\maruf\source\repos\Table_ordering_system\Services\bin\Debug\Services.dll
+C:\Users\maruf\source\repos\Table_ordering_system\Services\bin\Debug\Services.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Services\bin\Debug\Entities.dll
+C:\Users\maruf\source\repos\Table_ordering_system\Services\bin\Debug\Repository.dll
+C:\Users\maruf\source\repos\Table_ordering_system\Services\bin\Debug\Entities.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Services\bin\Debug\Repository.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\maruf\source\repos\Table_ordering_system\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\maruf\source\repos\Table_ordering_system\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\maruf\source\repos\Table_ordering_system\Services\obj\Debug\Services.dll
+C:\Users\maruf\source\repos\Table_ordering_system\Services\obj\Debug\Services.pdb

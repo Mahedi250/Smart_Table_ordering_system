@@ -1,0 +1,40 @@
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Ui Layer.exe.config
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Ui Layer.exe
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Ui Layer.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Entities.dll
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Services.dll
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Repository.dll
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Entities.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Services.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\bin\Debug\Repository.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui Layer.csprojAssemblyReference.cache
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Chef_ui.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Forget_pass.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Customer_ui.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Fpc.Confirmation.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Fpc.Setpass.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Fpc.Update_user.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Login.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Properties.Resources.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Customer_About_us.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Customer_cart.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Customer_game.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Customer_home.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Customer_menu.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_ui_layer.Addemloyee.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_ui_layer.Sell.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_ui_layer.User_home.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_ui_layer.User_menu.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_ui_layer.User_ui.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui Layer.csproj.GenerateResource.cache
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui Layer.csproj.CoreCompileInputs.cache
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui Layer.csproj.CopyComplete
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui Layer.exe
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui Layer.pdb
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Add_food.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.add_ing.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Menu_box.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Menu_changer.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Menu_infocs.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.User_controll.Ing_box.resources
+C:\Users\maruf\source\repos\Table_ordering_system\Ui Layer\obj\Debug\Ui_Layer.Two_player.resources
